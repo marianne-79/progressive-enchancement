@@ -1,1 +1,52 @@
-body 
+blockquote {
+max-width: 45%;
+margin: auto;
+font-size: 160%;
+background-color: #C0C0C0;
+border-color: firebrick, 3px;
+border-left-style: solid;
+padding: 80px 30px 80px 30px;
+}
+
+.farmer {
+border-left: solid;
+border-color: yellow;
+}
+
+.villagers {
+border-left: solid;
+border-color: pink;
+}
+
+.titre {
+background-color: yellow;
+
+}
+p {
+font-family: roboto;
+font-size: 150%;
+}
+
+q {
+font-style: italic;
+}
+
+body {
+max-width: 90%;
+margin: auto;
+background-image: url(https://thumbs.dreamstime.com/b/fond-multicolore-d-arc-en-ciel-gradient-conique-vecteur-89337902.jpg);	
+/*background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, purple);*/
+background-size: cover;
+background-position: bottom right;
+background-repeat: no-repeat;
+}
+
+.Good {
+text-transform: capitalize;
+color: green;
+}
+.bad {
+	text-transform: capitalize;
+	color: red;
+}
+
