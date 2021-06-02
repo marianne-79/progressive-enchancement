@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 blockquote {
 max-width: 45%;
 margin: auto;
@@ -94,4 +98,39 @@ li:nth-child(3) {
     li:nth-child(4) {
     margin-left: 31px;
     text-indent: 12px;
+}
+.imag1 {
+float: left;    
+margin: 10px 30px 5px 5px;
+}
+
+.imag2 {
+float: none;
+margin: 30px 30px 5px 5px;
+}
+
+.imag3 {
+float: none;
+margin: 30px 30px 5px 5px;
+
+}
+
+h2 {
+text-align: center;
+font-size: 240%;
+}
+
+h1 {
+text-align: left;
+font-size: 240%;
+
+}
+
+.fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+  border: 5px solid black;
+  text-align: center;
 }
