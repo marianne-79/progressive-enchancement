@@ -43,7 +43,8 @@ May 11, 2016, Alexandre Gorius
 <p>The whole process of nature is an integrated process of immense complexity, and it’s really impossible to tell whether anything that happens in it is good or bad — because you never know what will be the consequence of the misfortune; or, you never know what will be the consequences of good fortune.</p>
 <p>Alan Watts</p>
 
-----
+---
+
 <table>
 <th> Here is this dialog in the form of a table </th> 
 <tr>
@@ -75,4 +76,4 @@ May 11, 2016, Alexandre Gorius
 <footer>
    <p>Copyright Just Another Company 2017. All right reserved. Adapted from this article: <a href="https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/" target="_blank">https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/</a></p>
 </footer>
-</html> 
+</html>

@@ -3,127 +3,124 @@
 }
 
 blockquote {
-max-width: 45%;
-margin: auto;
-font-size: 160%;
-background-color: #C0C0C0;
-border-color: firebrick, 3px;
-border-left-style: solid;
-padding: 80px 30px 80px 30px;
+  max-width: 45%;
+  margin: auto;
+  font-size: 160%;
+  background-color: #c0c0c0;
+  border-color: firebrick, 3px;
+  border-left-style: solid;
+  padding: 80px 30px 80px 30px;
 }
 
 .farmer {
-border-left: solid;
-border-color: yellow;
+  border-left: solid;
+  border-color: yellow;
 }
 
 .villagers {
-border-left: solid;
-border-color: pink;
+  border-left: solid;
+  border-color: pink;
 }
 
 .titre {
-background-color: yellow;
-
+  background-color: yellow;
 }
 p {
-font-family: cursive;
-font-size: 150%;
+  font-family: cursive;
+  font-size: 150%;
 }
 
 q {
-font-style: italic;
+  font-style: italic;
 }
 
 body {
-max-width: 90%;
-margin: auto;
-background-image: url(https://thumbs.dreamstime.com/b/fond-multicolore-d-arc-en-ciel-gradient-conique-vecteur-89337902.jpg);	
-/*background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, purple);*/
-background-size: cover;
-background-position: bottom right;
-background-repeat: no-repeat;
+  max-width: 90%;
+  margin: auto;
+  background-image: url(https://thumbs.dreamstime.com/b/fond-multicolore-d-arc-en-ciel-gradient-conique-vecteur-89337902.jpg);
+  /*background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, purple);*/
+  background-size: cover;
+  background-position: bottom right;
+  background-repeat: no-repeat;
 }
 
 .Good {
-text-transform: capitalize;
-color: green;
+  text-transform: capitalize;
+  color: green;
 }
 .bad {
-	text-transform: capitalize;
-	color: red;
+  text-transform: capitalize;
+  color: red;
 }
 
-table { 
-background-color: #80908E;
- }
+table {
+  background-color: #80908e;
+}
 
 tr:nth-child(even) {
-background-color: white;
+  background-color: white;
 }
 
 li:nth-child(1) {
-    margin: 0;
-    padding: 15px 0 15px 80px;
-    background-image: url(https://raw.githubusercontent.com/marianne-79/CRL-Keller-3.31/master/Assets/bien.png?token=AUE7M5IMBP2HKZG57QQ7YG3AX7K4O);
-    background-repeat: no-repeat;
-    background-position: left center;
-    background-size: 40px;
-    list-style-type: none;
-    text-indent: -35px;
-    }
-    
+  margin: 0;
+  padding: 15px 0 15px 80px;
+  background-image: url(https://raw.githubusercontent.com/marianne-79/CRL-Keller-3.31/master/Assets/bien.png?token=AUE7M5IMBP2HKZG57QQ7YG3AX7K4O);
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 40px;
+  list-style-type: none;
+  text-indent: -35px;
+}
+
 li:nth-child(2) {
-    margin: 0;
-    padding: 15px 0 15px 80px;
-    background-image: url(https://raw.githubusercontent.com/marianne-79/CRL-Keller-3.31/master/Assets/mal.png?token=AUE7M5P63PV6QMESIAUKLHDAX7LJ6);
-    background-repeat: no-repeat;
-    background-position: left center;
-    background-size: 40px;
-    list-style-type: none;
-    text-indent: -35px;
-    }
+  margin: 0;
+  padding: 15px 0 15px 80px;
+  background-image: url(https://raw.githubusercontent.com/marianne-79/CRL-Keller-3.31/master/Assets/mal.png?token=AUE7M5P63PV6QMESIAUKLHDAX7LJ6);
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 40px;
+  list-style-type: none;
+  text-indent: -35px;
+}
 
 li:nth-child(3) {
-    margin: 0;
-    padding: 15px 0 15px 80px;
-    background-image: url(https://raw.githubusercontent.com/marianne-79/CRL-Keller-3.31/master/Assets/chat.png?token=AUE7M5IORKPZDB6N7MG5ZCLAX7LOA);
-    background-repeat: no-repeat;
-    background-position: left center;
-    background-size: 40px;
-    list-style-type: none;
-    text-indent: -35px;
-    }
+  margin: 0;
+  padding: 15px 0 15px 80px;
+  background-image: url(https://raw.githubusercontent.com/marianne-79/CRL-Keller-3.31/master/Assets/chat.png?token=AUE7M5IORKPZDB6N7MG5ZCLAX7LOA);
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 40px;
+  list-style-type: none;
+  text-indent: -35px;
+}
 
-    li:nth-child(4) {
-    margin-left: 31px;
-    text-indent: 12px;
+li:nth-child(4) {
+  margin-left: 31px;
+  text-indent: 12px;
 }
 .imag1 {
-float: left;    
-margin: 10px 30px 5px 5px;
+  float: left;
+  margin: 10px 30px 5px 5px;
 }
 
 .imag2 {
-float: none;
-margin: 30px 30px 5px 5px;
+  float: none;
+  margin: 30px 30px 5px 5px;
 }
 
 .imag3 {
-float: none;
-margin: 30px 30px 5px 5px;
-
+  float: none;
+  margin: 30px 30px 5px 5px;
 }
 
 h2 {
-text-align: center;
-font-size: 240%;
-
+  text-align: center;
+  font-size: 240%;
 }
 
 h1 {
-text-align: left;
-font-size: 240%;
+  text-align: left;
+  font-size: 240%;
 }
 
 .fixed {
